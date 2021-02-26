@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sara_project</string>
+    <string name="text_rating1">How do you feel PHYSICALLY today?</string>
+    <string name="text_rating2">How do you feel MENTALLY today?</string>
+    <string name="text_poor">Poor</string>
+    <string name="text_excellent">Excellent</string>
+    <string name="button_submit">Submit</string>
+    <string name="text_yourRatings">Today your ratings were:</string>
+    <string name="text_received">Thank you for your submission!</string>
+</resources>
